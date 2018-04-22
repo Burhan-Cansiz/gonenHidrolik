@@ -1,0 +1,13 @@
+@media screen and (max-width:768px){
+    .btn-uyeOl{
+        margin-bottom: 5px
+  
+    }
+}
+
+@media screen and (min-width:768px){
+    .btn-uyeOl{
+        margin : 0 5px
+  
+    }
+}
