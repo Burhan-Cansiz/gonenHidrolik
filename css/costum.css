@@ -43,5 +43,6 @@ body{
     color: #6c757d!important;
 }
 .bizeUlasin .card{
-    background-size: 13px
+    background-size: 13px;
+    height: 299px
 }
