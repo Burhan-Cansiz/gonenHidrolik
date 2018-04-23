@@ -31,7 +31,11 @@
 ::-webkit-scrollbar-corner {
   background: transparent;
 }
+
 .slayder,header{background-image: url('../img/global/sliderBg.png')}
+
 body{
     overflow-y: scroll
 }
+
+.bizeUlasin a{display: inline-block!important}

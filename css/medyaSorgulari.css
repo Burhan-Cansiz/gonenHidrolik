@@ -3,11 +3,38 @@
         margin-bottom: 5px
   
     }
+    .bizeUlasin a{
+        padding: 0 15px;
+        margin-bottom: 13px;
+        width: 100%
+    }
 }
 
 @media screen and (min-width:768px){
     .btn-uyeOl{
         margin : 0 5px
   
+    }
+    .bizeUlasin a{
+
+        padding: 0 5px;
+        margin-bottom: 13px;
+        width: 24%;
+    }
+    
+}
+
+@media screen and (min-width:768px) and (max-width: 1024px){
+    .bizeUlasin a{
+        padding: 0 5px;
+        margin-bottom: 13px;
+        width: 49%;
+    }
+    
+}
+@media screen and (min-width:1024px){
+    .bizeUlasin a{
+        padding: 0 5px;
+        width: 24%
     }
 }
