@@ -32,10 +32,16 @@
   background: transparent;
 }
 
-.slayder,header{background-image: url('../img/global/sliderBg.png')}
+.slayder,header,.bizeUlasin .card{background-image: url('../img/global/sliderBg.png')}
 
 body{
     overflow-y: scroll
 }
 
-.bizeUlasin a{display: inline-block!important}
+.bizeUlasin a{
+    display: inline-block!important;
+    color: #6c757d!important;
+}
+.bizeUlasin .card{
+    background-size: 13px
+}
